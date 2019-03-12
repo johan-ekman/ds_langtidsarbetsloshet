@@ -1,6 +1,6 @@
-# <Title>
+# Långtidsarbetslöshet inom Sveriges kommuner
 
-**<Kort beskrivning av innehållet i repot>** Relevanta länkar finns i notebooken.
+Här finns Dagens Samhälles bakgrundsmaterial och beräkningar till en jämförelse mellan kommunernas invånares långtidsarbetslöshet. Relevanta länkar finns i notebooken.
 
 Vid eventuella frågor är det bara att höra av sig till min mejl: johan.ekman@dagenssamhalle.se
 
